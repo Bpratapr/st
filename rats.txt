@@ -1,0 +1,84 @@
+
+==============NOT FOUND===============
+Brlapi==0.6.5(N)
+chrome-gnome-shell==0.0.0(N)
+initial-setup==0.3.81.7(N)
+nftables==0.1(N)
+perf==0.1(N)
+productmd==1.11(N)
+pwquality==1.4.4(N)
+python-dmidecode==3.12.2(N)
+python-linux-procfs==0.6.3(N)
+python-meh==0.47.2(N)
+requests-ftp==0.3.1(N)
+schedutils==0.6(N)
+sepolicy==1.1(N)
+setools==4.3.0(N)
+setroubleshoot==1.1(N)
+simpleline==1.1.1(N)
+slip==0.6.4(N)
+slip.dbus==0.6.4(N)
+SSSDConfig==2.4.0(N)
+subscription-manager==1.28.13(N)
+syspurpose==1.28.13(N)
+systemd-python==234(N)
+cupshelpers==1.0(N)
+
+==============MANY LUNIX==============
+SQLAlchemy==1.4.23(many lunix)
+PyYAML==3.12(many lunix)
+pandas==1.1.5(many lunix)
+numpy==1.19.5(many lunix)
+lxml==4.2.3(many lunix)
+MarkupSafe==2.0.1(many lunix)
+greenlet==1.1.1(manylunixfile)
+
+
+
+==================TAR.GAZ==============
+dbus-python==1.2.4(tar)
+ethtool==0.14(tar)
+gpg==1.13.1(tar)
+mod-wsgi==4.6.4(tar)
+ordered-set==2.0.2(tar)
+pycairo==1.16.3(tar or windows file)
+pycups==1.9.72(tar)
+pycurl==7.43.0.2(tar or windows file)
+pygobject==3.28.3(tar)
+pyinotify==0.9.6 (tar)
+pykickstart==3.16.11 (tar)
+pyparted==3.11.0 (tar)
+pyudev==0.21.0(tar)
+pywebhdfs==0.4.1(tar)
+rpm==4.14.3(tar)
+
+
+=================WHL============
+configobj==5.0.6(six-1.16.0-py2.py3-none-any.whl)
+
+dasbus==1.2
+dataclasses==0.8
+file-magic==0.3.0(ver == 0.4.0)
+iniparse==0.4(Ver == 0.5)
+isc==2.0(ver == 0.7)
+langtable==0.0.51
+ntplib==0.3.3( ver == 0.3.4)
+ply==3.9( Ver == 3.11)
+pyenchant==2.0.0( Ver == 3.2.2)
+PySocks==1.6.8(Ver == 1.7.1)
+pyxdg==0.25( Ver == 0.27)
+selinux==2.9( Ver == 0.2.1)
+sos==4.0( Ver == 0.22.5)
+
+
+
+
+
+
+
+
+
+
+
+
+
